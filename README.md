@@ -5,3 +5,4 @@ This project involves the design and development of a database to store and mana
 The scope of the project focuses on modeling and managing HDB carpark data based on the specified requirements, with additional design suggestions included where appropriate and within scope.
 
 Note: The full SQL code, database schema, and query implementations are documented in detail within the accompanying lab report.
+[View Lab Report](Lab_report_and_documentation.pdf)
